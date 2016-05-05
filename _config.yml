@@ -1,0 +1,28 @@
+name: naux
+favicon: null
+layout_spectrum: 0.47630860400386155
+typography_spectrum: 0.9348297615069896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11073848302476108
+  lightness: 0.7737609527539462
+  saturation: 0.88602688559331
+  rhythmicContrast: 0.0965997523162514
+purpose: []
